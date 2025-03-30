@@ -18,7 +18,7 @@ objectives:
 
 ### What is a README file?
 
-A README file serves as an introduction and guide to a project, making it easier for others (and your future self) to understand its purpose and structure. Depending on its scope, a README might provide a project overview, explain the folder organization, or offer usage examples. It can also include details such as contribution guidelines and licensing information. Whether you're a researcher, PhD student, developer, or simply revisiting your own work, a good README simplifies navigating and using the project's contents.
+A README file is usually a text file and serves as an introduction and guide to a project. The README makes it easier for others (and your future self) to understand the project's purpose and structure. Depending on its scope, a README might provide a project overview, explain the folder organization, or offer usage examples. It can also include details such as contribution guidelines and licensing information. Whether you're a researcher, PhD student, developer, or simply revisiting your own work, a good README simplifies navigating and using the project's contents.
 
 *Why is the README important?* A README helps team members and collaborators quickly understand the project, reducing the learning curve and improving efficiency. For software or datasets, a README provides necessary instructions on how to install, configure, and use the resources, making it easier for others to access your work.
 
