@@ -18,9 +18,9 @@ objectives:
 
 ### What is a README file?
 
-A README file introduces and explains a project, helping others (and your future self) understand it. Depending on its scope, it might give an overview of the project, explain the folder structure, or provide usage examples. It can also cover things like contribution guidelines and licensing. Whether you're a researcher, PhD student, developer, or just revisiting your own work, a good README makes it easier to navigate and use the contents of the project.
+A README file serves as an introduction and guide to a project, making it easier for others (and your future self) to understand its purpose and structure. Depending on its scope, a README might provide a project overview, explain the folder organization, or offer usage examples. It can also include details such as contribution guidelines and licensing information. Whether you're a researcher, PhD student, developer, or simply revisiting your own work, a good README simplifies navigating and using the project's contents.
 
-*Why is the README important?* A README helps team members and collaborators quickly understand the project, reducing the learning curve and improving efficiency. For software or datasets, a README provides necessary instructions on how to install, configure, and use the resources, making it easier for others to utilize your work.
+*Why is the README important?* A README helps team members and collaborators quickly understand the project, reducing the learning curve and improving efficiency. For software or datasets, a README provides necessary instructions on how to install, configure, and use the resources, making it easier for others to access your work.
 
 ### What different kinds of README files are there?
 
@@ -49,9 +49,16 @@ A **code README** focuses on software or scripts. It provides information on how
 
 ### What is Markdown?
 
-Markdown is a lightweight markup language with plain-text formatting syntax. It is used to create formatted text using a plain-text editor. Using Markdown is different from using an editor like Microsoft Word. In Word, you click buttons to format text and see the changes instantly (what you see is what you get). With Markdown, you add special syntax to your text to indicate formatting, but you won't see the changes until you preview or render the file.
+Markdown is a lightweight markup language with plain-text formatting syntax. It allows you to create formatted text using a plain-text editor. Markdown is different from an editor like Microsoft Word. In Word, you click buttons to format text and see the changes instantly (what you see is what you get). With Markdown, you add special syntax to your text to indicate formatting, but you won't see the changes until you preview or render the file.
 
-*What are the benefits of Markdown?* Markdown is a versatile language used for creating e.g. documents, emails, websites, and presentations. It is portable, allowing Markdown-formatted text to be opened with virtually any application, unlike proprietary formats like Microsoft Word. Markdown is platform-independent, enabling text creation on any device or operating system. Additionally, it is future-proof, ensuring readability with any text editor even if the original application becomes obsolete. Read more at [www.markdownguide.org](https://www.markdownguide.org/).
+### What are the benefits of Markdown?
+
+1. Markdown is a **versatile language** used for creating e.g. documents, emails, websites, and presentations.
+2. It is **portable**, allowing Markdown-formatted text to be opened with virtually any application, unlike proprietary formats like Microsoft Word.
+3. Markdown is **platform-independent**, enabling text creation on any device or operating system.
+4. It is **future-proof**, ensuring readability with any text editor even if the original application becomes obsolete.
+
+Read more at [www.markdownguide.org](https://www.markdownguide.org/getting-started/).
 
 ### How do you write Markdown?
 
