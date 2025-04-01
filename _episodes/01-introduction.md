@@ -78,36 +78,44 @@ For an overview of the basic Markdown syntax, please go to markdownguide.org and
 
 If this is the first time you write in Markdown, [markdownlivepreview.com](https://markdownlivepreview.com/) could be a good choice to get started but you are free to use any other tool as well. For additional help and examples, make use of the [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) from markdownguide.com.
 
-### Exercise 1: Basic Structure
-**Task**: Create a basic README file for a hypothetical project. Include sections for the project title and description.
-<details>
-  <summary>Hint</summary>
- 
-  Use headings for each section and try different levels. Do not forget a space after the #, and the blank lines before and after the headings.
-</details>
+> ## Exercise 1: Basic Structure
+> 
+> **Task**: Create a basic README file for a hypothetical project. Include sections for the project title and description.
+> 
+> > ## Hint
+> >
+> > Use headings for each section and try different levels. Do not forget a space after the #, and the blank lines before and after the headings.
+> {: .solution}
+{: .challenge}
 
-### Exercise 2: Detailed Project Information
-**Task**: Expand the README file from Exercise 1 to include information about the project members, their roles, and contact information. Also, add a section for the project's data management plan.
-<details>
-  <summary>Hint</summary>
- 
-  Include a table with the project members, their roles, and contact information. Add a link to the data management plan.
-</details>
+> ## Exercise 2: Detailed Project Information
+> 
+> **Task**: Expand the README file from Exercise 1 to include information about the project members, their roles, and contact information. Also, add a section for the project's data management plan.
+> 
+> > ## Hint 
+> >
+> > Include a table with the project members, their roles, and contact information. Add a link to the data management plan.
+> {: .solution}
+{: .challenge}
 
-### Exercise 3: Folder Structure and File Naming
-**Task**: Add a section to your README file that describes the folder structure and file naming conventions used in your project. Use Markdown to create a visual representation of the folder hierarchy.
-<details>
-  <summary>Hint</summary>
- 
-  Use bullet points or `code syntax` to represent the folder structure and file naming conventions.
-</details>
+> ## Exercise 3: Folder Structure and File Naming
+> 
+> **Task**: Add a section to your README file that describes the folder structure and file naming conventions used in your project. Use Markdown to create a visual representation of the folder hierarchy.
+> 
+> > ## Hint
+> > 
+> > Use bullet points or `code syntax` to represent the folder structure and file naming conventions.
+> {: .solution}
+{: .challenge}
 
-### Exercise 4: Explore published READMEs on GitHub
-**Task**: Go to the GitHub repository [**awesome-readme**](https://github.com/matiassingers/awesome-readme) and find an example README of your interest. Write down some features that you find useful and try to add them to your README from exercise 3, or create a new README.
-<details>
-  <summary>Hint</summary>
- 
-  Experiment with different Markdown elements to see how they affect the formatting. If you need examples you can take a look at the [basic syntax](https://www.markdownguide.org/basic-syntax/) or the [extended syntax](https://www.markdownguide.org/extended-syntax/) from the [markdownguide.com](https://www.markdownguide.org/).
-</details>
+> ## Exercise 4: Explore published READMEs on GitHub
+> 
+> **Task**: Go to the GitHub repository [**awesome-readme**](https://github.com/matiassingers/awesome-readme) and find an example README of your interest. Write down some features that you find useful and try to add them to your README from exercise 3, or create a new README.
+> 
+> > ## Hint
+> > 
+> Experiment with different Markdown elements to see how they affect the formatting. If you need examples you can take a look at the [basic syntax](https://www.markdownguide.org/basic-syntax/) or the [extended syntax](https://www.markdownguide.org/extended-syntax/) from the [markdownguide.com](https://www.markdownguide.org/).
+> {: .solution}
+{: .challenge}
  
 {% include links.md %}
