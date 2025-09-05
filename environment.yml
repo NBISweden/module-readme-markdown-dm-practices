@@ -3,7 +3,7 @@ channels:
   - nodefaults
 dependencies:
   #- git
-  - ruby>=2.7.1
+  - ruby=3.3
   - c-compiler
   - cxx-compiler
   - make
