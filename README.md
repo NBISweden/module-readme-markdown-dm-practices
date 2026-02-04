@@ -1,5 +1,5 @@
-# TODO: Replace with a module title
-TODO: Replace with a description of the module
+# README using Markdown
+This is a lesson on how to create different types of README files, including project, data, and code READMEs, using Markdown.
 
 # To build this lesson
 ## Install dependencies
