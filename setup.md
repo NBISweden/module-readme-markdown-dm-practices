@@ -10,3 +10,5 @@ The course introduces several tools for live coding Markdown:
 * [stackedit.io](https://stackedit.io/app#): A more advanced, web-based Markdown editor with offline editing, cloud synchronization, and collaboration features.
 
 Additionally, [Visual Studio Code (VS Code)](https://code.visualstudio.com/) is recommended for those who prefer a local editor, but this tool is not needed to do the exercises and can be installed after the course. VS Code supports Markdown with live preview and rendering capabilities.
+
+Download the [Presentation slides](module-readme-markdown-dm-practices.pdf)
